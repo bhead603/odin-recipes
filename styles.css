@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading {
+    color:white;
+    background-color: black;
+}
+
+.recipe-list {
+    font-size: 20px;
+}
